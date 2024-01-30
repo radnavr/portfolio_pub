@@ -1,0 +1,37 @@
+[
+  {
+    "githubLink": "https://github.com/radnavr/mynotes_pub",
+    "projectDesc": "My very first react project was a note app. After some time, I approached the subject once more and improved it with a dedicated database, API, user accounts and JWT security. But still, there's more space for future improvements and they'll certainly come one day.",
+    "projectLink": "https://my-notes-24.onrender.com",
+    "projectName": "MYNOTES",
+    "techUsed": ["REACT", "NODE", "MONGO"]
+  },
+  {
+    "githubLink": "https://github.com/radnavr/neurocog_pub",
+    "projectDesc": "Neurocog is a medical CRUD app dedicated to management of neuro-cognitive rehabilitation procedures. Its goal is to streamline communication and grant more autonomy to participating medical personnel. And hey, it's actually in use - at the Department of Pediatric Neurology at University Hospital Ostrava.",
+    "projectLink": "https://neurocog.onrender.com",
+    "projectName": "NEUROCOG",
+    "techUsed": ["REACT", "NODE", "MONGO", "FIREBASE"]
+  },
+  {
+    "githubLink": "https://github.com/radnavr/jawa_2",
+    "projectDesc": "It's not a motorcycle. It's Just Another Weather App. This time, my take on a classic project. JAWA comes up with some custom metrics, locations administration and it utilises serverless function and Web Storage API.",
+    "projectLink": "https://jawa2.netlify.app",
+    "projectName": "JAWA",
+    "techUsed": ["REACT", "NODE"]
+  },
+  {
+    "githubLink": "https://github.com/radnavr/strategium-10th",
+    "projectDesc": "One of my hobbies is a tabletop game called Warhammer. This app makes both strategic and tactical decisions made here a little bit easier by calculating expected results of combat engagements consisting of a couple of interdependent layers of dice rolls. The app can also take into account several special rules.",
+    "projectLink": "https://strateg10.onrender.com",
+    "projectName": "STRATEGIUM",
+    "techUsed": ["REACT"]
+  },
+  {
+    "githubLink": "https://github.com/radnavr/portfolio_pub",
+    "projectDesc": "It would be appropriate to be able to peek under the hood of something you are just using, right? Don't worry, it's totally possible. Just click at the github repo button down below and you can check the code of this very page.",
+    "projectLink": "https://radnavr.dev",
+    "projectName": "PORTFOLIO PAGE",
+    "techUsed": ["REACT"]
+  }
+]
